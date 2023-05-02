@@ -37,6 +37,7 @@
 		"postcss": "^8.4.23",
 		"prettier": "^2.8.8",
 		"prettier-plugin-svelte": "^2.10.0",
+		"prisma": "^4.13.0",
 		"svelte": "^3.58.0",
 		"svelte-check": "^3.2.0",
 		"svelte-preprocess": "^5.0.3",
@@ -49,9 +50,9 @@
 	"dependencies": {
 		"@floating-ui/dom": "^1.2.7",
 		"@inqling/svelte-icons": "^3.1.0",
+		"@prisma/client": "^4.13.0",
 		"@vercel/analytics": "^1.0.0",
 		"common-tags": "^1.8.2",
-		"firebase": "^9.21.0",
 		"gpt3-tokenizer": "^1.1.5",
 		"highlight.js": "^11.8.0",
 		"javascript-time-ago": "^2.5.9",
